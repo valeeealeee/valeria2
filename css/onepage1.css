@@ -1,0 +1,348 @@
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+html {
+    display: block;
+}
+head {
+    display: none;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+body.loaded {
+    overflow: auto;
+}
+body {
+    overflow: hidden;
+}
+.project-nav ul li a, .proxima-nova-regular, body {
+    font-family: Proxima Nova Regular,serif;
+    font-weight: 400;
+    font-style: normal;
+}
+body {
+    font-size: 1em;
+}
+body {
+    margin: 0;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+script {
+    display: none;
+}
+.project-nav ul li a, .proxima-nova-regular, body {
+    font-family: Proxima Nova Regular,serif;
+    font-weight: 400;
+    font-style: normal;
+}
+body {
+    font-size: 1em;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+.site-wrapper {
+    position: relative;
+    top: 0;
+    width: 100%;
+    overflow: hidden;
+}
+div {
+    display: block;
+}
+.project-nav ul li a, .proxima-nova-regular, body {
+    font-family: Proxima Nova Regular,serif;
+    font-weight: 400;
+    font-style: normal;
+}
+@media (min-width: 1px)
+.main-menu-trigger {
+    position: fixed;
+    top: 24px;
+    left: 24px;
+    display: block;
+    width: 3.75em;
+    height: 4.25em;
+    margin: 0 auto;
+    -webkit-transform-origin: center center;
+    -ms-transform-origin: center center;
+    transform-origin: center center;
+    z-index: 20001;
+    font-size: 11px;
+}
+a, a:visited {
+    color: #f7484e;
+    text-decoration: underline;
+}
+
+a {
+    background-color: transparent;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.project-nav ul li a, .proxima-nova-regular, body {
+    font-family: Proxima Nova Regular,serif;
+    font-weight: 400;
+    font-style: normal;
+}
+i.icon {
+    text-transform: none;
+    font-style: normal;
+}
+.daveid-icon, i.icon {
+    font-family: Daveid Icon,serif;
+    font-weight: 400;
+    font-style: normal;
+}
+div {
+    display: block;
+}
+@media (min-width: 1px)
+.loaded .block--hero {
+    position: relative;
+}
+@media (min-width: 1px)
+.block--hero {
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    z-index: 300;
+    overflow: hidden;
+}
+.block {
+    position: relative;
+}
+.background-color--dark-grey {
+    background-color: #292929;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+section {
+    display: block;
+}
+.as-h1, .as-h2, .as-h3, .as-h4, .as-h5, .as-h6, .button, .button--default, .button--ghost, .button--hexagon .button__label, .button--solid, .button--underlined, .main-nav ul li a, .main-nav ul li:before, .proxima-nova-bold, h1, h2, h3, h4, h5, h6 {
+    font-family: Proxima Nova Bold,serif;
+    font-weight: 700;
+    font-style: normal;
+}
+@media (min-width: 1px)
+.as-h1, h1 {
+    font-size: 2.25em;
+}
+@media (min-width: 1px)
+.as-h1, .as-h2, .as-h3, .as-h4, .as-h5, .as-h6, h1, h2, h3, h4, h5, h6 {
+    line-height: 1.2em;
+    margin-bottom: 1.2em;
+    position: relative;
+}
+@media (min-width: 1px)
+.as-h1, .as-h2, .as-h3, .as-h4, .as-h5, .as-h6, h1, h2, h3, h4, h5, h6, p {
+    margin-top: 0;
+}
+h1 {
+    font-size: 2em;
+    margin: .67em 0;
+}
+:-webkit-any(article, aside, nav, section) h1 {
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+@media (min-width: 1px)
+.block--hero .block__title {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+@media (min-width: 1px)
+.as-h6, h6 {
+    font-size: .875em;
+}
+.subtitled {
+    margin-bottom: 0!important;
+}
+.uppercase {
+    text-transform: uppercase!important;
+}
+.text-color--red {
+    color: #f7484e;
+}
+@media (min-width: 1px)
+.text-align--s-center {
+    text-align: center;
+}
+@media (min-width: 1px)
+.padding--bottom--s-3, .padding--s-3, .padding--vertical--s-3 {
+    padding-bottom: 36px;
+}
+@media (min-width: 1px)
+.padding--s-3, .padding--top--s-3, .padding--vertical--s-3 {
+    padding-top: 36px;
+}
+@media (min-width: 1px)
+.padding--horizontal--s-8, .padding--right--s-8, .padding--s-8 {
+    padding-right: 96px;
+}
+@media (min-width: 1px)
+.padding--horizontal--s-8, .padding--left--s-8, .padding--s-8 {
+    padding-left: 96px;
+}
+@media (min-width: 1px)
+.block--hero .block__content {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+.vertical-align-helper:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    margin-left: -5px;
+}
+.vertical-align-helper>[class*=vertical-align--] {
+    display: inline-block;
+    width: 100%;
+}
+@media (min-width: 1px)
+.vertical-align--s-middle {
+    vertical-align: middle;
+}
+.block--hero .lettering {
+    width: 100%;
+}
+svg:not(:root) {
+    overflow: hidden;
+}
+svg[Attributes Style] {
+    x: 0px;
+    y: 0px;
+    width: 455px;
+    height: 455px;
+}
+@media (min-width: 1px)
+.loaded .block--hero .preloader {
+    bottom: -72px;
+}
+.preloader.loading {
+    -webkit-animation: 2s preload-flip steps(2) infinite both;
+    animation: 2s preload-flip steps(2) infinite both;
+}
+@media (min-width: 1px)
+.block--hero .preloader {
+    position: absolute;
+    left: 50%;
+    margin-left: -2.5em;
+    bottom: 48px;
+    -webkit-transition: .5s cubic-bezier(.6,-.28,.735,.045);
+    transition: .5s cubic-bezier(.6,-.28,.735,.045);
+}
+.preloader {
+    font-size: 8px;
+    display: block;
+    width: 3.75em;
+    height: 4.25em;
+    margin: 0 auto;
+    -webkit-transform-origin: center center;
+    -ms-transform-origin: center center;
+    transform-origin: center center;
+    -webkit-transform: rotateY(
+180deg
+) rotateZ(
+-60deg
+);
+    transform: rotateY(
+180deg
+) rotateZ(
+-60deg
+);
+}
+@media (min-width: 1px)
+.loaded .block--hero .main-nav {
+    bottom: 0;
+}
+@media (min-width: 1px)
+.block--hero .main-nav {
+    bottom: -84px;
+    -webkit-transition: .4s cubic-bezier(.165,.84,.44,1) .5s;
+    transition: .4s cubic-bezier(.165,.84,.44,1) .5s;
+}
+@media (min-width: 1px)
+.main-nav {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.text-color--red {
+    color: #f7484e;
+}
+nav>ol, nav>ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+@media (min-width: 1px)
+ul {
+    margin-top: 0;
+    margin-bottom: 1.6em;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+nav>ol li, nav>ul li {
+    margin: 0;
+    padding: 0;
+}
+@media (min-width: 1px)
+ul li {
+    line-height: 1.75em;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+@media (min-width: 1px)
+.main-nav ul {
+    padding: 36px 0;
+    text-align: center;
+}
